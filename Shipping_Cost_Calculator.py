@@ -1,4 +1,3 @@
-# Here is another update by xman4001
 # Here is a new update by Xman4001
  # Shipping Cost Calculator
 
